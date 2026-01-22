@@ -1,71 +1,71 @@
-#  Portfólio — Mateus Amaral Franze
+#  Portfolio — Mateus Amaral Franze
 
-Este repositório contém o código do meu **portfólio profissional**, desenvolvido com o objetivo de apresentar meus projetos, habilidades técnicas e evolução como **estudante de Engenharia de Software**.
+This repository contains the source code of my **professional portfolio**, created to showcase my projects, technical skills, and continuous learning as a **Software Engineering undergraduate student**.
 
-Sou atualmente estudante do **Bacharelado em Engenharia de Software**, em fase inicial da graduação, e utilizo este portfólio para aplicar na prática os conhecimentos adquiridos em aula e em estudos complementares.
+I am currently pursuing a **Bachelor’s degree in Software Engineering** and I am in the early stages of my academic journey. This portfolio was developed to apply theoretical knowledge in practical projects and to demonstrate my growth as a developer.
 
 ---
 
-##  Tecnologias Utilizadas
+##  Technologies Used
 
 * **JavaScript (ES6+)**
 * **React**
 * **HTML5**
 * **CSS3**
 * **Git & GitHub**
-* **Vercel** (Deploy)
+* **Vercel** (Deployment)
 
 ---
 
-##  Sobre o Portfólio
+##  About the Portfolio
 
-O portfólio foi desenvolvido como uma aplicação **front-end**, com foco em:
+This portfolio is a **front-end application** developed with a focus on:
 
-* Componentização
-* Organização de código
-* Responsividade
-* Boas práticas de desenvolvimento
-* Deploy em ambiente de produção
+* Component-based architecture
+* Code organization and readability
+* Responsive design
+* Good development practices
+* Deployment in a production environment
 
-Ele apresenta projetos que representam meu nível atual de conhecimento, priorizando **clareza, funcionalidade e aprendizado contínuo**.
-
----
-
-##  Projetos
-
-No portfólio você encontrará projetos como:
-
-* Aplicações front-end desenvolvidas em React
-* Projetos com lógica de programação aplicada
-* Consumo de dados e manipulação de estado
-* Interfaces simples e funcionais
-
-Cada projeto possui:
-
-* Descrição do objetivo
-* Tecnologias utilizadas
-* Link para visualização (deploy)
-* Link para o repositório no GitHub
+The projects presented reflect my current level of knowledge, prioritizing **clarity, functionality, and continuous learning** rather than complexity.
 
 ---
 
-##  Acesso ao Portfólio
+##  Projects
 
-🔗 **Portfólio Online:**
+In this portfolio, you will find projects such as:
+
+* Front-end applications built with React
+* Projects applying programming logic and state management
+* Simple data handling and UI interactions
+* Clean and functional user interfaces
+
+Each project includes:
+
+* A clear description of its purpose
+* Technologies used
+* A live demo link (deploy)
+* A link to the GitHub repository
+
+---
+
+##  Portfolio Access
+
+🔗 **Live Portfolio:**
 [https://portifolio-ten-omega-63.vercel.app](https://portifolio-ten-omega-63.vercel.app)
 
 ---
 
-##  Contato
+##  Contact
 
 * **GitHub:** [https://github.com/MateusAmaralFranze](https://github.com/MateusAmaralFranze)
-
-* **E-mail:** *amaralmateusdev@gmail.com*
+* **LinkedIn:** *https://www.linkedin.com/in/mateus-amaraldev/*
+* **Email:** *amaralmateusdev@gmail.com*
 
 ---
 
-##  Objetivo
+##  Career Objective
 
-Busco oportunidades de **estágio ou posição júnior** na área de desenvolvimento de software, onde eu possa aprender, evoluir tecnicamente e contribuir com soluções bem estruturadas.
+I am seeking an **internship opportunity in Software Development**, where I can further develop my technical skills, gain real-world experience, and contribute to well-structured solutions while continuing to learn.
 
-Este portfólio será atualizado constantemente conforme meu progresso acadêmico e profissional.
+This portfolio will be continuously updated as I progress academically and professionally.
