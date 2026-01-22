@@ -59,8 +59,8 @@ Cada projeto possui:
 ##  Contato
 
 * **GitHub:** [https://github.com/MateusAmaralFranze](https://github.com/MateusAmaralFranze)
-* **LinkedIn:** *(adicione aqui quando quiser)*
-* **E-mail:** *(opcional)*
+
+* **E-mail:** *amaralmateusdev@gmail.com*
 
 ---
 
