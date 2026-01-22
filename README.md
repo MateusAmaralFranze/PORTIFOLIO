@@ -65,9 +65,8 @@ https://portifolio-ten-omega-63.vercel.app
 
 GitHub: https://github.com/MateusAmaralFranze
 
-LinkedIn: (adicione aqui quando quiser)
 
-E-mail: (opcional)
+E-mail: amaralmateusdev@gmail.com
 
 📈 Objetivo
 
